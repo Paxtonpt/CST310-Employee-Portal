@@ -15,7 +15,7 @@
 <div class="navbar-fixed-bottom row-fluid">
 	<div class="navbar-inner">
 		<div class="container text-center">
-			Copyright @ 2020
+			Copyright @ 2024
 		</div>
 	</div>	
 </div>
